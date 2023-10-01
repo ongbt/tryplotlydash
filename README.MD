@@ -1,5 +1,5 @@
 pip list --format=freeze > requirements.txt
-
+git add -A && git commit -m "Fixed" && git push
 
 # Render
 ## https://dashboard.render.com/web/srv-ckcf89uct0pc73bmkjdg/deploys/dep-ckcfpi6smu8c73ci0rq0
