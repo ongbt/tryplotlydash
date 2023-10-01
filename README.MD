@@ -21,7 +21,7 @@
 ## Environment Variables: PYTHON_VERSION = 3.11.5
 ## Settings: 
 ###  Build Command: pip install --upgrade pip setuptools wheel && pip install -r requirements.txt
-###  Start Command: gunicorn app:app
+###  Start Command: gunicorn my_app:server
 
 # Deployment Issues:
 ## mkl_fft: https://github.com/jocelynpender/fna-query/issues/4
