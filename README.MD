@@ -1,5 +1,20 @@
-pip list --format=freeze > requirements.txt
-git add -A && git commit -m "Fixed" && git push
+
+
+
+# Conda
+## conda create -n plotlydash
+## conda activate plotlydash
+## conda install python
+## conda install gunicorn
+## pip list --format=freeze > requirements.txt
+## Remove mkl* from requirements.txt
+## Add gunicorn from requirements.txt
+
+
+# Git
+## git add -A && git commit -m "Fixed" && git push
+
+
 
 # Render
 ## https://dashboard.render.com/web/srv-ckcf89uct0pc73bmkjdg/deploys/dep-ckcfpi6smu8c73ci0rq0
